@@ -1,0 +1,15 @@
+{
+	"name": "crmsalesdata",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ae3cdc1-262d-495f-b1a5-8e9322a54720",
+		"tenantId": "de280afa-f414-4fb9-b822-8b01edd08554"
+	}
+}
