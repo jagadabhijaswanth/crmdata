@@ -1,0 +1,6 @@
+{
+	"name": "onpremtoazure",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
