@@ -1,0 +1,17 @@
+{
+	"name": "rawcrmdata",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "D:\\crmdata",
+			"userId": "jaswanth jagadabhi",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI3ZjI5YmI0NC0zNTFhLTQxZTItOTA1YS0wNDZkYWJmMTc3NTEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "onpremtoazure",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
